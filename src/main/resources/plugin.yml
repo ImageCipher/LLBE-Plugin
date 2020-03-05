@@ -1,0 +1,7 @@
+pluginVersion: 0.1
+pluginName: LLBE Plugin
+pluginAuthors:
+    - username: SKocur
+      email: skocur10@gmail.com
+pluginDescription: Low Level Bit Encryption plugin for ImageCipher
+mainClassPath: com.imagecipher.llbeplugin.LLBEPlugin
